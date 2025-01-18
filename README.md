@@ -1,6 +1,6 @@
-# Project GDL OOBE
+# ctOS OOBE
 
-Out-of-the-box experience (OOBE) app for Project GDL.
+Out-of-the-box experience (OOBE) app for ctOS. (electron-based)
 
 
 
@@ -8,6 +8,7 @@ Everything you need to build a Svelte project, powered by [`sv`](https://github.
 
 
 ## Developing
+"ноды хватит на всех)" - @relativemodder
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
